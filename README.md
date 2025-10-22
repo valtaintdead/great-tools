@@ -18,5 +18,3 @@ Each folder contains one complete app that you can open directly in your browser
 | ⚙️ *(More coming soon...)* | Small tools for productivity, fun, and learning | – |
 
 ---
-
-## 📦 Structure
