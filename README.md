@@ -2,6 +2,7 @@
 
 A growing collection of **small, simple, and useful web apps** — all built with pure **HTML, CSS, and JavaScript**.  
 Each app is a standalone project — no installations, no setup, just open and use.
+feel free to contribute! 
 
 ---
 
