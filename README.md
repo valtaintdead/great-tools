@@ -16,6 +16,7 @@ Each folder contains one complete app that you can open directly in your browser
 | App Name | Description | Demo |
 |-----------|-------------|------|
 | 🖼️ **Image to Text (OCR)** | Converts images into text using Tesseract.js | [Open](#) |
+| ➗**Calculator using Flask and web** | does your everyday maths |   |
 | ⚙️ *(More coming soon...)* | Small tools for productivity, fun, and learning | – |
 
 ---
